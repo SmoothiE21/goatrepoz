@@ -1,4 +1,4 @@
-Játékosok:
+﻿Játékosok:
 
 1.Név:Szalma Sziárd
 
@@ -7,3 +7,5 @@ Score: 500
 2.Név:András Andrea
 
 Score: 550
+
+7

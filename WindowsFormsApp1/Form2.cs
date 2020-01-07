@@ -38,7 +38,7 @@ namespace WindowsFormsApp1
             goat1.Left = 5000;
             enem2.Left = 3000;
             enem3.Left = 4000;
-            enem5.Left = 3000;
+            enem5.Left = 3500;
             boss.Left = 9000;
             goat2.Left = 5000;
             enem9.Left = 2000;
