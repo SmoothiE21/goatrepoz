@@ -57,3 +57,19 @@ C:\Users\Szalma Szilard\Desktop\Ne járj vele\WindowsFormsApp1\WindowsFormsApp1\
 C:\Users\Szalma Szilard\Desktop\Ne járj vele\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Szalma Szilard\Desktop\Ne járj vele\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Szalma Szilard\Desktop\Ne járj vele\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Instructions.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main2.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.select.resources
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Szalma Szilard\Desktop\szoftver_projekt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

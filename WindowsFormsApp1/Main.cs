@@ -49,7 +49,7 @@ namespace WindowsFormsApp1
             rocket2.Left = 6000;
             rocket3.Left = 6000;
             goat1.Left = 12000;
-            goat2.Left = 12000;
+            goat2.Left = 11000;
 
 
         }
